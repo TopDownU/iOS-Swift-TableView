@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "0daf0991a774be287e6cfa1da5ae4072"
+build_time: [1511643768, 67505000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/TableTutorial/TableTutorial/ViewController.swift": [1511643766, 0]
+  "/Users/Vidyadhar/Desktop/Github/TableTutorial/TableTutorial/AppDelegate.swift": [1511643552, 0]
